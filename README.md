@@ -1,2 +1,2 @@
 # Mediator
-First Repository
+Repository for Mediator Project
